@@ -1,6 +1,6 @@
 # Hi, I'm Jerry — full-stack software engineer moving into AI engineering
 
-- 4 years building production systems at Oracle Cloud Infrastructure
+- Years of building production systems at Oracle Cloud Infrastructure
 - Currently in AI Singapore's AI Apprenticeship Programme (Sep 2026 – Mar 2027): ML, deep learning, LLMs, RAG and agents
 - I talk about system design for AI on my YouTube channel, [creativeSalt](https://www.youtube.com/@creativeSalt-p9k)
 
